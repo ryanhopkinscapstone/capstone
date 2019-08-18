@@ -24,13 +24,15 @@ The remainder of my portfolio is a multi-part project that showcases integration
 
 ## Code Review
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/hYG94ve7WrY" frameborder="0" allow="autoplay; padding-bottom="20px"; encrypted-media" allowfullscreen></iframe>     
+<iframe width="640" height="360" src="https://www.youtube.com/embed/hYG94ve7WrY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>     
 
 During the course, we were asked to perform an in-depth code review on a previous project selected for enhancement. For this code review, I looked at my final project for IT-145: Foundations in Application Development. 
 
 ## Software Design and Engineering Enhancement
 
-![image](https://tools-unite.com/img/md5-hash-generator.png)
+[![image](https://fsmedia.imgix.net/68/b2/26/7c/c483/48c1/a942/83cbbd458f61/the-complete-c-master-class-course.jpeg?crop=edges&fit=crop&auto=format%2Ccompress&dpr=2&h=325&w=650)](https://github.com/ryanhopkinscapstone/capstone/tree/master/IT145ConversionToCSharp)
+
+[Please click here or on the image above to see the code for this project](https://github.com/ryanhopkinscapstone/capstone/tree/master/IT145ConversionToCSharp)
 
 This artifact is an authentication program where the user is required to submit their username and password to get their role in the system. The program uses an MD5 hash to encrypt the password and compares the input to known credentials in the system. If the user succeeds, they will see the role assigned to their credentials. If the user fails, they have three attempts to succeed before the system shuts down for security.
 
