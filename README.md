@@ -1,8 +1,11 @@
+![image](https://www.propertymanagementportlandor.com/images/awards-banner.jpg)
+
 # Software Development Portfolio
 
 My name is Ryan Hopkins and I have a Bachelor's of Science from Southern New Hampshire University. Below is a showcase of my capstone work as well as some narratives to offer insight into my thought process on how I solve problems.
 
 ## Professional Self-Assessment
+
 
 During my journey at Southern New Hampshire University, I have seen myself grow as a software developer and a human being. Looking back, it is hard to believe that I have learned so much in just a few years, with much more learning to go as I venture into an industry that is forever changing. I found my strengths, weaknesses, interests and motivation that will allow me to be the best software developer I can be in a career as a software developer. I hope you enjoy this professional reflection into my time at SNHU and the start of a career as a software developer.
 
