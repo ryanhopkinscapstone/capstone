@@ -24,12 +24,13 @@ The remainder of my portfolio is a multi-part project that showcases integration
 
 ## Code Review
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/hYG94ve7WrY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<iframe width="640" height="360" src="https://www.youtube.com/embed/hYG94ve7WrY" frameborder="0" allow="autoplay; padding-bottom="20px"; encrypted-media" allowfullscreen></iframe>     
 
 During the course, we were asked to perform an in-depth code review on a previous project selected for enhancement. For this code review, I looked at my final project for IT-145: Foundations in Application Development. 
 
 ## Software Design and Engineering Enhancement
+
+![image](https://tools-unite.com/img/md5-hash-generator.png)
 
 This artifact is an authentication program where the user is required to submit their username and password to get their role in the system. The program uses an MD5 hash to encrypt the password and compares the input to known credentials in the system. If the user succeeds, they will see the role assigned to their credentials. If the user fails, they have three attempts to succeed before the system shuts down for security.
 
