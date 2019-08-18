@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/IT145ConversionToCSharp.csproj": {}
+  },
+  "projects": {
+    "/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/IT145ConversionToCSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/IT145ConversionToCSharp.csproj",
+        "projectName": "IT145ConversionToCSharp",
+        "projectPath": "/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/IT145ConversionToCSharp.csproj",
+        "packagesPath": "/Users/ryan/.nuget/packages/",
+        "outputPath": "/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ryan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

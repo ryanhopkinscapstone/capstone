@@ -1,0 +1,15 @@
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/bin/Debug/netcoreapp2.1/IT145ConversionToCSharp.deps.json
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/bin/Debug/netcoreapp2.1/IT145ConversionToCSharp.runtimeconfig.json
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/bin/Debug/netcoreapp2.1/IT145ConversionToCSharp.runtimeconfig.dev.json
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/bin/Debug/netcoreapp2.1/IT145ConversionToCSharp.dll
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/bin/Debug/netcoreapp2.1/IT145ConversionToCSharp.pdb
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/obj/Debug/netcoreapp2.1/IT145ConversionToCSharp.csprojAssemblyReference.cache
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/obj/Debug/netcoreapp2.1/IT145ConversionToCSharp.csproj.CoreCompileInputs.cache
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/obj/Debug/netcoreapp2.1/IT145ConversionToCSharp.AssemblyInfoInputs.cache
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/obj/Debug/netcoreapp2.1/IT145ConversionToCSharp.AssemblyInfo.cs
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/obj/Debug/netcoreapp2.1/IT145ConversionToCSharp.dll
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/obj/Debug/netcoreapp2.1/IT145ConversionToCSharp.pdb
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/bin/Debug/netcoreapp2.1/Files/credentials.txt
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/bin/Debug/netcoreapp2.1/Files/veterinarian.txt
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/bin/Debug/netcoreapp2.1/Files/zookeeper.txt
+/Users/ryan/Projects/IT145ConversionToCSharp/IT145ConversionToCSharp/bin/Debug/netcoreapp2.1/Files/admin.txt
