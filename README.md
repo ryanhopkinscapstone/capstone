@@ -26,9 +26,7 @@ The remainder of my portfolio is a multi-part project that showcases integration
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/hYG94ve7WrY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-   return
-
-During the course, we were asked to perform an in-depth code review on a previous project selected for enhancement. For this code review, I looked at my final project for IT-145: Foundations in Application Development. 
+>During the course, we were asked to perform an in-depth code review on a previous project selected for enhancement. For this code review, I looked at my final project for IT-145: Foundations in Application Development. 
 
 ## Software Design and Engineering Enhancement
 
