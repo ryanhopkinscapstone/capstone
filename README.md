@@ -1,4 +1,4 @@
-## Software Development Portfolio
+# Software Development Portfolio
 
 My name is Ryan Hopkins and I have a Bachelor's of Science from Southern New Hampshire University. Below is a showcase of my capstone work as well as some narratives to offer insight into my thought process on how I solve problems.
 
@@ -24,7 +24,9 @@ The remainder of my portfolio is a multi-part project that showcases integration
 
 ## Code Review
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/hYG94ve7WrY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>     
+<iframe width="640" height="360" src="https://www.youtube.com/embed/hYG94ve7WrY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+   return
 
 During the course, we were asked to perform an in-depth code review on a previous project selected for enhancement. For this code review, I looked at my final project for IT-145: Foundations in Application Development. 
 
