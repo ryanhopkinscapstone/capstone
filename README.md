@@ -58,53 +58,24 @@ The remainder of my portfolio is a multi-part project that showcases integration
 
 ## Database Enhancement
 
-For the database enhancement, I created a back-end RESTful API that connected to a MongoDB database. This is a new project and was created for the purpose of this course. Once paired with the front-end project from the previous week, this project will be a full stack application that leverages microservices and a division of responsibility, allowing each to be reused individually if necessary, down the road.
+[![image](https://www.nist.gov/sites/default/files/images/2018/06/20/shutterstock_340702754_thumprint2ctitima_ongkantong_0.jpg)](https://github.com/ryanhopkinscapstone/capstone/tree/master/mongodbbackend)
 
-This project deserves to be in my ePortfolio because it is my main focus as a developer at Liberty Mutual and showcases the skills appropriately. We are pushing to microservices, so all new developers are being brought in to pull apart legacy systems, make them serverless and separated in small webservices. Once the project is complete, the benefit of showcasing a full stack project with different software groups will show an ability to hook one type of project with another (in this case, React.js with Java working together).
+[Please click here or on the image above to see the code for this project](https://github.com/ryanhopkinscapstone/capstone/tree/master/mongodbbackend)
 
-I believe the course objectives for this project were met, as it meets the planned development from week one. If I had additional time to work on the project, I would add more HTTP responses for the front-end to consume and create more graphs for analytics.
+>For the database enhancement, I created a back-end RESTful API that connected to a MongoDB database. This is a new project and was created for the purpose of this course. Once paired with the front-end project from the previous week, this project will be a full stack application that leverages microservices and a division of responsibility, allowing each to be reused individually if necessary, down the road.
 
-This was similar to the project from CS-340 and since it is a focus point at work, it came fairly easily to me. I am very comfortable with Spring and Maven, using it several times. One struggle was getting the year out of the UNIX time stamp, but it was more of a difficulty in MongoDB aggregation. Once I solved that problem, writing it with the MongoDB template was not too bad. The more I work with MongoDB, the more I love it and hope to never see SQL again. If only that was possible!
+>This project deserves to be in my ePortfolio because it is my main focus as a developer at Liberty Mutual and showcases the skills appropriately. We are pushing to microservices, so all new developers are being brought in to pull apart legacy systems, make them serverless and separated in small webservices. Once the project is complete, the benefit of showcasing a full stack project with different software groups will show an ability to hook one type of project with another (in this case, React.js with Java working together).
+
+>I believe the course objectives for this project were met, as it meets the planned development from week one. If I had additional time to work on the project, I would add more HTTP responses for the front-end to consume and create more graphs for analytics.
+
+>This was similar to the project from CS-340 and since it is a focus point at work, it came fairly easily to me. I am very comfortable with Spring and Maven, using it several times. One struggle was getting the year out of the UNIX time stamp, but it was more of a difficulty in MongoDB aggregation. Once I solved that problem, writing it with the MongoDB template was not too bad. The more I work with MongoDB, the more I love it and hope to never see SQL again. If only that was possible!
 
 ## Connecting The Pieces
 
-Outside of the assignments for CS-499, I created a stretch goal of connecting my React front-end to the Java/Spring backend. To do this, I repurposed the reviews_store and created a parser. Once I had that completed, I also added an API file to keep things neat and organized. After completing the utilities that needed to be written, I refactored the code within each page to use the API instead of the local JSON file. No work was needed on the backend to complete this implementation. The implementation is available, however the application itself does not run as is because the two sides need to run on the same port locally or be hosted. I did not have time within the constraints of this course to learn about creating a build pipeline and hosting a database, while keeping the credentials a secret. However, if this is done, the code will function as a working application as designed.
+[![image](https://marketingland.com/wp-content/ml-loads/2015/08/ss-analytics-data.jpg)](https://github.com/ryanhopkinscapstone/capstone/tree/master/react-with-hooks)
 
-This is being included in my portfolio because it shows my ability to connect two unrelated code bases together as one. I could have created the API in node.js and made the project much simpler but I wanted to showcase a more challenging opportunity. The process of creating an API hook was not easy, since so much code needed to be refactored to get it working properly. I am glad I pushed myself to complete the hook in enhancement though, because I am excited to see what this skill can do for me in my future.
+[Please click here or on the image above to see the code for this project](https://github.com/ryanhopkinscapstone/capstone/tree/master/react-with-hooks)
 
+>Outside of the assignments for CS-499, I created a stretch goal of connecting my React front-end to the Java/Spring backend. To do this, I repurposed the reviews_store and created a parser. Once I had that completed, I also added an API file to keep things neat and organized. After completing the utilities that needed to be written, I refactored the code within each page to use the API instead of the local JSON file. No work was needed on the backend to complete this implementation. The implementation is available, however the application itself does not run as is because the two sides need to run on the same port locally or be hosted. I did not have time within the constraints of this course to learn about creating a build pipeline and hosting a database, while keeping the credentials a secret. However, if this is done, the code will function as a working application as designed.
 
-You can use the [editor on GitHub](https://github.com/ryanhopkinscapstone/capstone/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryanhopkinscapstone/capstone/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>This is being included in my portfolio because it shows my ability to connect two unrelated code bases together as one. I could have created the API in node.js and made the project much simpler but I wanted to showcase a more challenging opportunity. The process of creating an API hook was not easy, since so much code needed to be refactored to get it working properly. I am glad I pushed myself to complete the hook in enhancement though, because I am excited to see what this skill can do for me in my future.
